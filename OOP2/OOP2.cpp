@@ -12,6 +12,11 @@ public:
 	}
 };
 
+int main() {
+	mahasiswa mhs{ 1 };
+
+}
+
 
 
 
